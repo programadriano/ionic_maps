@@ -16,7 +16,7 @@ import { AgmCoreModule } from '@agm/core';
     IonicModule,
     HomePageRoutingModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDRdbzdiVKP3MMOk-AT3KbxxKXElH_llKo',
+      apiKey: '',
       libraries: ['places']
     })
   ],
